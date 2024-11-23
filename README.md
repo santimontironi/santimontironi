@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ---<br><br>👋 ¡Hola! Soy Santiago Montironi, de Argentina, y tengo 22 años. Como desarrollador apasionado por la tecnología, tengo un emprendimiento de desarrollo web llamado fullWeb, enfocado en crear aplicaciones web personalizadas y de alto rendimiento, tanto en el front-end como en el back-end. Trabajo con herramientas como React, Flask y MySQL, buscando siempre implementar las mejores prácticas.<br><br>💼 Mis proyectos incluyen desde gestores de clientes hasta plataformas de e-commerce interactivas, donde priorizo la optimización y el código limpio para garantizar una gran experiencia de usuario.<br><br>📚 Me gusta explorar nuevas tecnologías y mantenerme al día en tendencias, siempre en busca de mejorar y aprender más con cada proyecto.<br><br>🤝 ¡Estoy abierto a colaborar y aprender en conjunto!<br><br>---
 
 
