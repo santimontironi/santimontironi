@@ -1,5 +1,6 @@
 # 💫 About me:
----<br><br>👋 ¡Hola! Soy Santiago Montironi, de Argentina, y tengo 23 años. Como desarrollador apasionado por la tecnología, tengo un emprendimiento de desarrollo web llamado fullWeb, enfocado en crear aplicaciones web personalizadas y de alto rendimiento, tanto en el front-end como en el back-end. Trabajo con herramientas como stack MERN (MongoDB,Express.js,React.js y Node.js), Django, SQL, etc. Buscando siempre implementar las mejores prácticas.<br><br>📚 Me gusta explorar nuevas tecnologías y mantenerme al día en tendencias, siempre en busca de mejorar y aprender más con cada proyecto.<br><br>🤝 ¡Estoy abierto a colaborar y aprender en conjunto!<br><br>---
+---<br><br>👋 ¡Hola! Soy Santiago Montironi, de Argentina, y tengo 23 años. Soy Técnico Superior en Desarrollo de Software y tengo un emprendimiento de desarrollo web llamado FullWeb. Enfocado en crear aplicaciones web personalizadas y de alto rendimiento, tanto en el front-end como en el back-end. Trabajo con herramientas como stack MERN (MongoDB,Express.js,React.js y Node.js),
+NextJS, NestJS, PostgreSQL, etc. Buscando siempre implementar las mejores prácticas.<br><br>📚 Me gusta explorar nuevas tecnologías y mantenerme al día en tendencias, siempre en busca de mejorar y aprender más con cada proyecto.<br><br>🤝 ¡Estoy abierto a colaborar y aprender en conjunto!<br><br>---
 
 
 ## 🌐 Socials:
